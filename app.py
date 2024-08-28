@@ -33,7 +33,7 @@ auto.press('enter') #aperta enter
 
 #gerar executavel
 #apos instalar a biblioteca, 
-# dgite no promp de comando:  cxfreeze (nome do arquivo "p") --target.dir ('nome da pasta)
+# dgite no promp de comando:  cxfreeze (nome do arquivo "p") --target-dir ('nome da pasta)
 #cria uma pasta que gera os arquivos responsaveis para execucao do programa, um atalho
 #dentro da pasta automacao que foi criada, abra ela, e va na 1 opcao apos entrar nela, escita 'app.exe' (executavel)
 #clique com o botao direito em cima dela
